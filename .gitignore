@@ -2,3 +2,4 @@ target
 *.iml
 .idea
 .vertx
+dependency-reduced-pom.xml
